@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:161B22,100:00D9FF&text=OQI AJAH&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=VIBE%20CODING%20%20%E2%80%A2%20%20BUILDING%20%E2%80%A2%20%20CREATING&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B0F19,45:111827,75:312E81,100:06B6D4&text=OQI&fontSize=92&fontColor=FFFFFF&fontAlignY=42&desc=VIBE%20CODING%20%E2%80%A2%20PROMPT%20ENGINEERING%20%E2%80%A2%20CREATIVE%20TECH&descAlignY=62&descSize=17&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Creative+Developer+%F0%9F%92%BB;Web+%7C+Python+%7C+C%2B%2B+%7C+PHP;Turning+Ideas+Into+Code+%E2%9A%A1;Build+Something+You+Love+%F0%9F%9A%80;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Vibe+Coding+%F0%9F%92%BB;Prompt+Engineering+%F0%9F%A7%A0;Building+Ideas+With+Code+%E2%9A%A1;Web+%7C+IoT+%7C+API+%7C+Automation;Always+Experimenting+%F0%9F%9A%80" alt="OQI"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,json&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,php,json,python,git,arduino,esp32,linux,mysql&theme=dark&perline=12"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=oqi-aja&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -20,40 +20,20 @@
 
 <div align="center">
 
-# ✦ ABOUT ME
+# ✦ OQI
 
-### 💻 Developer · 🎨 Creative Thinker · ⚡ Problem Solver
-
-**I turn random ideas into things that actually work.**
+### Creative Developer · Vibe Coder · Prompt Engineer
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20SOMETHING-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA-161B22?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MODE-VIBE%20CODING-00D9FF?style=for-the-badge&labelColor=0D1117" />
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-# ⚡ MY DIGITAL TOOLBOX
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,php,json,nodejs,git,github,vscode&theme=dark&perline=11" />
+<img src="https://img.shields.io/badge/VIBE%20CODING-111827?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-111827?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/CREATIVE%20TECH-111827?style=for-the-badge&logo=rocket&logoColor=A78BFA"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
-<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=FFFFFF" />
+**Turning ideas → prompts → code → something real.**
 
 </div>
 
@@ -61,61 +41,128 @@
 
 <div align="center">
 
-# 🌐 WHAT I BUILD
+# 🧠 PROMPT ENGINEERING
+
+<br>
+
+<img src="https://img.shields.io/badge/IDEA-22D3EE?style=for-the-badge&labelColor=0B0F19"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/PROMPT-A78BFA?style=for-the-badge&labelColor=0B0F19"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/EXPERIMENT-22D3EE?style=for-the-badge&labelColor=0B0F19"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/BUILD-A78BFA?style=for-the-badge&labelColor=0B0F19"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/CREATE-22D3EE?style=for-the-badge&labelColor=0B0F19"/>
+
+<br><br>
+
+### ✨ Exploring the intersection between **AI × Creativity × Code**
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%20ASSISTED%20DEVELOPMENT-0B0F19?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CREATIVE%20PROMPTING-0B0F19?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPERIMENTAL%20WORKFLOW-0B0F19?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ TECH STACK
+
+<br>
+
+### 🌐 WEB
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark&perline=4"/>
+
+<br><br>
+
+### ⚙️ PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=cpp,python&theme=dark&perline=2"/>
+
+<br><br>
+
+### 🔌 HARDWARE & IoT
+
+<img src="https://skillicons.dev/icons?i=arduino,esp32&theme=dark&perline=2"/>
+
+<br><br>
+
+### 🧩 TOOLS & SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=git,linux,mysql&theme=dark&perline=3"/>
+
+<br><br>
+
+### 📦 DATA & INTEGRATION
+
+<img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/API-111827?style=for-the-badge&logo=fastapi&logoColor=22D3EE"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 WHAT I'M INTO
 
 <br>
 
 <table>
 <tr>
+<td align="center" width="200">
 
-<td align="center" width="180">
+### 🤖
 
-### 🌎
+**PROMPT ENGINEERING**
+
+AI workflows  
+Creative prompting  
+AI-assisted development
+
+</td>
+
+<td align="center" width="200">
+
+### 💻
+
+**VIBE CODING**
+
+Ideas into projects  
+Rapid experiments  
+Creative development
+
+</td>
+
+<td align="center" width="200">
+
+### 🌐
 
 **WEB**
 
-Modern websites  
-Interactive interfaces  
-Creative UI
+Frontend  
+Backend  
+Interactive interfaces
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="200">
 
-### 🐍
+### 🔌
 
-**PYTHON**
+**IoT**
 
-Automation  
-Tools  
-Experiments
-
-</td>
-
-<td align="center" width="180">
-
-### ⚙️
-
-**C++**
-
-Systems  
-Hardware  
-Logic
+Arduino  
+ESP32  
+Connected systems
 
 </td>
-
-<td align="center" width="180">
-
-### 🚀
-
-**BACKEND**
-
-APIs  
-PHP  
-Data
-
-</td>
-
 </tr>
 </table>
 
@@ -125,17 +172,25 @@ Data
 
 <div align="center">
 
-# 📊 GITHUB UNIVERSE
+# 🌌 THE OQI WORKFLOW
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<img src="https://img.shields.io/badge/01%20IDEA-0B0F19?style=for-the-badge&logoColor=22D3EE"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/02%20PROMPT-111827?style=for-the-badge&logoColor=A78BFA"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/03%20CODE-0B0F19?style=for-the-badge&logoColor=22D3EE"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/04%20TEST-111827?style=for-the-badge&logoColor=A78BFA"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/05%20BUILD-0B0F19?style=for-the-badge&logoColor=22D3EE"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+### 💡 Think different.
+### ⚡ Build fast.
+### 🧪 Experiment often.
 
 </div>
 
@@ -143,79 +198,17 @@ Data
 
 <div align="center">
 
-# 🔥 CONTRIBUTION
+# 📊 GITHUB ACTIVITY
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=oqi-aja&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9"/>
 
-</div>
-
----
-
-<div align="center">
-
-# 🚀 FEATURED WORK
-
-<br>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_2">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPOSITORY_2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# 🎯 CURRENTLY EXPLORING
-
-<br>
-
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/AUTOMATION-161B22?style=for-the-badge&logo=robotframework&logoColor=00D9FF" />
-<img src="https://img.shields.io/badge/API%20DEVELOPMENT-00D9FF?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/CREATIVE%20CODING-161B22?style=for-the-badge&logo=processingfoundation&logoColor=00D9FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oqi-aja&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=C9D1D9"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/BUILDING%20IDEAS%20INTO%20REALITY-0D1117?style=for-the-badge&labelColor=00D9FF&logoColor=white" />
-
-</div>
-
----
-
-<br>
-
-<div align="center">
-
-# 💭 THE VIBE
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=CREATE.%20BUILD.%20BREAK.%20REPEAT.&fontSize=32&fontColor=00D9FF&animation=twinkling" />
-
-<br>
-
-### ⚡ Code is not just syntax.
-
-### It's a way to turn an idea into something real.
-
-<br>
-
-<img src="https://img.shields.io/badge/☕%20COFFEE-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/💻%20CODE-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/🎧%20MUSIC-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/🚀%20BUILD-000000?style=flat-square" />
+<img src="https://streak-stats.demolab.com?user=oqi-aja&theme=transparent&hide_border=true&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=6B7280"/>
 
 </div>
 
@@ -223,24 +216,96 @@ Data
 
 <div align="center">
 
-# 🌌 LET'S CONNECT
+# 📈 CONTRIBUTION GRAPH
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oqi-aja&bg_color=0B0F19&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&hide_border=true"/>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
+</div>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
+---
+
+<div align="center">
+
+# 🧪 EXPERIMENT LAB
+
+<br>
+
+<img src="https://img.shields.io/badge/WEB%20EXPERIMENTS-22D3EE?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/AI%20EXPERIMENTS-A78BFA?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/IoT%20EXPERIMENTS-22D3EE?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/API%20EXPERIMENTS-A78BFA?style=for-the-badge&labelColor=0B0F19"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00D9FF,50:161B22,100:0D1117&section=footer" />
+<img src="https://img.shields.io/badge/ALWAYS-EXPERIMENTING-111827?style=for-the-badge&logo=labview&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/ALWAYS-BUILDING-111827?style=for-the-badge&logo=rocket&logoColor=22D3EE"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎨 CREATIVE SIDE
+
+<br>
+
+<img src="https://img.shields.io/badge/CODE-22D3EE?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/DESIGN-A78BFA?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/VISUALS-22D3EE?style=for-the-badge&labelColor=0B0F19"/>
+<img src="https://img.shields.io/badge/AI-A78BFA?style=for-the-badge&labelColor=0B0F19"/>
+
+<br><br>
+
+### Creating isn't only about making things work.
+
+### It's about making them **interesting.**
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐 FIND ME
+
+<br>
+
+<a href="https://github.com/oqi-aja">
+<img src="https://img.shields.io/badge/GITHUB-0B0F19?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.instagram.com/oqqii_">
+<img src="https://img.shields.io/badge/INSTAGRAM%20%40OQQII_-0B0F19?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="https://www.instagram.com/oqi_visual/">
+<img src="https://img.shields.io/badge/INSTAGRAM%20%40OQI__VISUAL-0B0F19?style=for-the-badge&logo=instagram&logoColor=A78BFA"/>
+</a>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=BUILD.%20CREATE.%20EXPERIMENT.&fontSize=31&fontColor=22D3EE&animation=twinkling"/>
+
+### ⚡ OQI
+
+**Vibe Coding • Prompt Engineering • Creative Technology**
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,php,json,python,git,arduino,esp32,linux,mysql&theme=dark&perline=12"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:22D3EE,50:312E81,100:0B0F19&section=footer"/>
 
 </div>
